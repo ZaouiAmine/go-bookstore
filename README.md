@@ -51,7 +51,7 @@ A simple RESTful API for managing a bookstore, built with Go.
 
 To simplify testing, you can download the Postman collection for the Bookstore API:
 
-1. Download the [Bookstore API Postman Collection](https://github.com/ZaouiAmine/go-bookstore/bookstore.postman_collection.json).
+1. Download the [Bookstore API Postman Collection](https://github.com/ZaouiAmine/go-bookstore/blob/main/bookstore.postman_collection.json).
 
 2. Import the collection into Postman:
     - Open Postman.
